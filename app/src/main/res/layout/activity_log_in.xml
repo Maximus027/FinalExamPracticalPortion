@@ -12,14 +12,14 @@
 
     <EditText
         android:id="@+id/username_et"
-        android:text="@string/username_edit_text"
+        android:hint="@string/username_edit_text"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="@dimen/username_edit_text_top_margin"/>
 
     <EditText
         android:id="@+id/password_et"
-        android:text="@string/password_edit_text"
+        android:hint="@string/password_edit_text"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@id/username_et"
@@ -28,6 +28,7 @@
     <Button
         android:id="@+id/submit_button"
         android:text="@string/submit_button"
+        android:onClick="setSubmitButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">FinalExamPracticalPortion</string>
+    <string name="app_name">Final Exam Practical Portion</string>
     <string name="username_edit_text">Username</string>
     <string name="password_edit_text">Password</string>
     <string name="submit_button">Submit</string>
