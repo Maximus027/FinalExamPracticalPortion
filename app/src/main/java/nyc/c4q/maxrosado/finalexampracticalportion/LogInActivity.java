@@ -25,7 +25,7 @@ public class LogInActivity extends AppCompatActivity {
         if (username == "" || username == null || username.isEmpty() || username.length() == 0) {
             noUsernameToast(view);
         }
-        if (password == "" || password == null || username.isEmpty() || username.length() == 0) {
+        if (password == "" || password == null || password.isEmpty() || password.length() == 0) {
             noPasswordToast(view);
         }
         if (username.length() != 0 && password.length() != 0) {
@@ -35,7 +35,7 @@ public class LogInActivity extends AppCompatActivity {
     }
 
     public void goToMainScreenActivity(View view) {
-        Intent intent = new Intent(this, MainScreenActivity.class);
+        Intent intent = new Intent(this, ProfileScreenActivity.class);
         startActivity(intent);
     }
 

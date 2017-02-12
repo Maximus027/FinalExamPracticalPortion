@@ -5,4 +5,8 @@
     <dimen name="password_edit_text_top_margin">40dp</dimen>
     <dimen name="username_edit_text_top_margin">125dp</dimen>
     <dimen name="submit_button_top_margin">40dp</dimen>
+    <dimen name="profile_image_size">150dp</dimen>
+    <dimen name="profile_image_margin_bottom">200dp</dimen>
+    <dimen name="profile_image_button_dimension">60dp</dimen>
+    <dimen name="profile_image_button_and_tv_margin">10dp</dimen>
 </resources>

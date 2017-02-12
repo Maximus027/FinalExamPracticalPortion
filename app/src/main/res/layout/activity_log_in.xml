@@ -13,6 +13,8 @@
     <EditText
         android:id="@+id/username_et"
         android:hint="@string/username_edit_text"
+        android:inputType="textVisiblePassword"
+        android:maxLines="1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="@dimen/username_edit_text_top_margin"/>
@@ -20,6 +22,8 @@
     <EditText
         android:id="@+id/password_et"
         android:hint="@string/password_edit_text"
+        android:inputType="textVisiblePassword"
+        android:maxLines="1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@id/username_et"

@@ -3,7 +3,7 @@ package nyc.c4q.maxrosado.finalexampracticalportion;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class MainScreenActivity extends AppCompatActivity {
+public class ProfileScreenActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
