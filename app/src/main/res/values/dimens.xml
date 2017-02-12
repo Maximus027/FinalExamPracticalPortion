@@ -9,4 +9,5 @@
     <dimen name="profile_image_margin_bottom">200dp</dimen>
     <dimen name="profile_image_button_dimension">60dp</dimen>
     <dimen name="profile_image_button_and_tv_margin">10dp</dimen>
+    <dimen name="header_size">200dp</dimen>
 </resources>

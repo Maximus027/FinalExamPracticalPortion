@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/heart_nav_button"
+            android:icon="@drawable/heart"
+            android:title="Heart" />
+        <item
+            android:id="@+id/message_nav_button"
+            android:icon="@drawable/message"
+            android:title="Second" />
+        <item
+            android:id="@+id/settings_nav_button"
+            android:icon="@drawable/wrench"
+            android:title="Settings" />
+        <item
+            android:id="@+id/log_out_nav_button"
+            android:icon="@drawable/close_circle"
+            android:title="Log Out" />
+    </group>
+</menu>

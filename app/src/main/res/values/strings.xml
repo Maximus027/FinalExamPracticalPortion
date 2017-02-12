@@ -4,4 +4,9 @@
     <string name="password_edit_text">Password</string>
     <string name="submit_button">Submit</string>
     <string name="hardware_button_name">Hardware</string>
+    <string name="message_button_tv">Message</string>
+    <string name="settings_button_tv">Settings</string>
+    <string name="log_out_button_tv">Log Out</string>
+    <string name="heart_button_tv">Heart</string>
+    <string name="setting_item_tv">Setting - #</string>
 </resources>
